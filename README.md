@@ -1,8 +1,8 @@
 # About me 👋
 
 ### **Intro**
-- 🔭 I’m currently working on a family business. Learning as much as I can in every position at the company.
-- 🌱 I’m currently learning new skills like Python and the use of Github.
+- 🔭 I’m working on a family business. Learning as much as I can in every position at the company.
+- 🌱 I’m  learning new skills like Python and the use of Github.
 - 👯 I’m looking to collaborate with any business that requires a Data Analyst as I aspire to be a remote one.
 - 🤔 I’m looking to learn more about Python and coding in general.
 
